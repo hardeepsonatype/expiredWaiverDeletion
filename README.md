@@ -3,7 +3,9 @@ Delete Expired Waivers in IQ Server
 
 # Edit Configuration in repositoryWaivers.py :
 IQ_SERVER_URL - Replace with your IQ Server URL
+
 IQ_USERNAME - Replace with your username
+
 IQ_PASSWORD - Replace with your password
 
 # Run
